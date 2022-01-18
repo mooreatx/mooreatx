@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mooreatx
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning GIT
 - 💞️ I’m looking to collaborate on Cloud Projects
 - 📫 How to reach me shawn.rashod.moore@gmail.com
 
